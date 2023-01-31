@@ -4,10 +4,14 @@ In the following repo we focus on the try out of several methods for solving win
 ### Starting point
 - Create a virtual environment:
 
-python -m venv .env
+    `python -m venv .env`
 
-- Activate and deactivate:
+- Activate and deactivate (Linux):
 
-source .env/bin/activate
+    `source .env/bin/activate`
+    `source .env/bin/deactivate`
 
-source .env/bin/deactivate
+- Activate and deactivate (Windows):
+
+    `.env/Scripts/activate`
+    `.env/Scripts/deactivate`
