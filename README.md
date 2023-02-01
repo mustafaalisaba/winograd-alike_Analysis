@@ -9,9 +9,11 @@ In the following repo we focus on the try out of several methods for solving win
 - Activate and deactivate (Linux):
 
     `source .env/bin/activate`
+
     `source .env/bin/deactivate`
 
 - Activate and deactivate (Windows):
 
     `.env/Scripts/activate`
+    
     `.env/Scripts/deactivate`
