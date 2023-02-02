@@ -14,6 +14,6 @@ In the following repo we focus on the try out of several methods for solving win
 
 - Activate and deactivate (Windows):
 
-    `.env/Scripts/activate`
+    `.env\Scripts\activate`
     
-    `.env/Scripts/deactivate`
+    `.env\Scripts\deactivate`
